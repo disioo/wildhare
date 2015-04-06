@@ -1,0 +1,5 @@
+rootProject.name = 'org.disioo.wildhare'
+include 'genplugin'
+
+
+
