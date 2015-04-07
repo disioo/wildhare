@@ -1,5 +1,5 @@
-Wild Hare Gradle Extension and Plugin
-=====================================
+Wildhare Gradle Extension and Plugin
+====================================
 
 Overview
 --------
