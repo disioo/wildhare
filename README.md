@@ -4,17 +4,17 @@ Wildhare Gradle Extension and Plugin
 Overview
 --------
 
-Wild Hare Gradle provides gradle infrastructure like plugins and so on.
+Wildhare Gradle provides gradle infrastructure like plugins and so on.
 
 
-Wildhar for Developer
+Wildhare for Developer
 ---------------------
 
 ### Getting Started
 > **Important JDK 8**  
 > Before you build Polyserv you have to ensure that you use JDK 8 or later and gradle is installed.
 
-Go to the wildhare directory. 
+Go to the wildhare directory.
 
 For the first time you have to initialize the gradle wrapper to ensure the specified version of gradle.
 
